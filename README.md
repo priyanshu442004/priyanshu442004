@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently work at Analytx4t Lab<br><br>👋 Hi, I’m Priyanshu Sharma<br><br>I’m a Full Stack Developer who loves building real-world products, mostly using the MERN stack. I enjoy turning ideas into clean, scalable applications and working across both frontend and backend.<br><br>I’ve worked on production-level projects, with experience in Full stack and cloud development and deployment. Always learning, always building, and always looking to improve how things scale and perform.<br><br>📫 Let’s Connect<br>Email: priyanshusharma442004@gmail.com<br>GitHub: You’re already here 😉
+👋 Hi, I’m Priyanshu Sharma<br><br>I’m a Full Stack Developer who loves building real-world products, mostly using the MERN stack. I enjoy turning ideas into clean, scalable applications and working across both frontend and backend.<br><br>I’ve worked on production-level projects, with experience in Full stack and cloud development and deployment. Always learning, always building, and always looking to improve how things scale and perform.<br><br>📫 Let’s Connect<br>Email: priyanshusharma442004@gmail.com<br>GitHub: You’re already here 😉
 
 
 ## 🌐 Socials:
